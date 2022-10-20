@@ -27,7 +27,7 @@ public class MobileStore {
     //handle all the exceptions
     public List<Mobile> readMobileData(String fileName)
     {
-        int countLines = 0;
+        //int countLines = 0;
 
         try{
 
